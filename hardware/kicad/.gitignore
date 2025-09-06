@@ -2,3 +2,4 @@
 ESPKey-backups
 rescue-backup
 production
+*.lck

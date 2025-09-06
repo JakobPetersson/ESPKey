@@ -11,21 +11,26 @@ Have a look [over here](https://github.com/octosavvi/ESPKey/releases/latest) for
 2.  Run these commands:
 
 ```shell
-# Change to working directory
-$ cd <path-to-workingdir>
-
 # Build project
 $ pio run
+```
 
+```shell
 # Upload firmware
 $ pio run --target upload
+```
 
+```shell
 # Build specific environment
 $ pio run -e esp12
+```
 
+```shell
 # Upload firmware for the specific environment
 $ pio run -e esp12 --target upload
+```
 
+```shell
 # Clean build files
 $ pio run --target clean
 ```

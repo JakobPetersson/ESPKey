@@ -5078,26 +5078,6 @@
 		)
 	)
 	(gr_line
-		(start 114.1 104.8)
-		(end 114.2 104.2)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "143f06ec-65a2-44c2-8a1b-1f03c85514fa")
-	)
-	(gr_line
-		(start 114.2 104.2)
-		(end 114.4 104.5)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "1fc90002-4919-4524-a2a5-dd51e35723ef")
-	)
-	(gr_line
 		(start 108.1 105)
 		(end 108.3 105.1)
 		(stroke
@@ -5106,16 +5086,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "537a050c-67be-417a-90a9-bf57c1bcbf38")
-	)
-	(gr_line
-		(start 114.2 104.2)
-		(end 113.9 104.4)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "a7bf00a6-36e9-4176-a25c-0c9bd7e759a2")
 	)
 	(gr_line
 		(start 108.7 105)
@@ -5243,13 +5213,13 @@
 		)
 	)
 	(gr_text "O"
-		(at 113.7 105.2 0)
+		(at 113.787515 103.296817 0)
 		(layer "F.SilkS")
-		(uuid "8e5304f0-a173-4285-9095-f1d5e386b6c6")
+		(uuid "fe30ec76-336e-4c64-b299-a2a835b0e84d")
 		(effects
 			(font
-				(size 0.8 0.8)
-				(thickness 0.15)
+				(size 1 1)
+				(thickness 0.2)
 			)
 		)
 	)

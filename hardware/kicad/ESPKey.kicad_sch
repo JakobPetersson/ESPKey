@@ -3364,6 +3364,143 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "C_7"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Field5" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C? C_????_* C_???? SMD*_c Capacitor*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_7_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_7_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "C_8"
 			(pin_numbers
 				(hide yes)
@@ -15648,6 +15785,12 @@
 		(uuid "c79a0b36-4a42-444c-bf6a-e35cf4e29720")
 	)
 	(junction
+		(at 114.3 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "03121a5a-19d0-459c-8c5f-25762226e615")
+	)
+	(junction
 		(at 114.3 36.83)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -15682,6 +15825,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4712838a-b635-4c17-b33c-1bc4363003fb")
+	)
+	(junction
+		(at 114.3 39.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f15b8e3-b304-4aba-bf27-a2bc7c8bbadf")
 	)
 	(junction
 		(at 151.13 106.68)
@@ -15830,6 +15979,16 @@
 			(type default)
 		)
 		(uuid "1c345835-a135-404e-9a25-e31d6367fb0a")
+	)
+	(wire
+		(pts
+			(xy 123.19 46.99) (xy 114.3 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21783ca1-1836-41a7-9237-45ab78d079d0")
 	)
 	(wire
 		(pts
@@ -16530,6 +16689,16 @@
 			(type default)
 		)
 		(uuid "df296a61-0895-4c1d-a1fd-dc86afb83bef")
+	)
+	(wire
+		(pts
+			(xy 123.19 39.37) (xy 114.3 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "df97242f-f13e-4f9d-b6d5-397f4dbf3387")
 	)
 	(wire
 		(pts
@@ -20795,6 +20964,74 @@
 			(project ""
 				(path "/1f33d41d-661d-4049-af44-ba9af8c3ad9e"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "C_7")
+		(lib_id "ESPKey-rescue:C")
+		(at 123.19 43.18 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00000000-0000-0000-0000-0000574cdd67")
+		(property "Reference" "C3"
+			(at 126.111 42.0116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "np"
+			(at 126.111 44.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitors_SMD:C_0402"
+			(at 122.2248 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 123.19 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "801c6b69-2c5a-47c8-aedc-7b44c6730681")
+		)
+		(pin "2"
+			(uuid "a70249b0-83c1-49ce-860b-caf9c907aeac")
+		)
+		(instances
+			(project ""
+				(path "/1f33d41d-661d-4049-af44-ba9af8c3ad9e"
+					(reference "C3")
 					(unit 1)
 				)
 			)

@@ -5052,7 +5052,6 @@
 		)
 	)
 	(footprint "ESP8266:ESP-12-SMD"
-		(locked yes)
 		(layer "B.Cu")
 		(uuid "00000000-0000-0000-0000-0000574bebdb")
 		(at 119 105.1 180)
@@ -5061,6 +5060,7 @@
 		(property "Reference" "U2"
 			(at 1.7 -1.1 180)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "15d880d3-bb57-47ae-84b6-60799338e9c7")
 			(effects
 				(font
@@ -5102,6 +5102,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ebe3004f-8262-488b-abda-ff7dd9c7c330")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)

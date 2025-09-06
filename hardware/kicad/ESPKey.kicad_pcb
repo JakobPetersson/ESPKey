@@ -5120,7 +5120,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005699a26e")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start 14.986 -15.621)
 			(end 14.986 -14.859)

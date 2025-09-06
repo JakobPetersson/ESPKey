@@ -5723,7 +5723,7 @@
 	(footprint "OmegaPwn v3.0 Logo:Untitled"
 		(layer "B.Cu")
 		(uuid "d1f33570-8be8-4306-82ac-174417706509")
-		(at 112 110.5 -90)
+		(at 112.05 110 -90)
 		(property "Reference" "G***"
 			(at 0 0 90)
 			(layer "B.SilkS")

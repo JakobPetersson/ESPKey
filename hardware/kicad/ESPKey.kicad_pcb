@@ -6922,6 +6922,26 @@
 		(embedded_fonts no)
 	)
 	(gr_line
+		(start 113.425 114.4)
+		(end 114.225 114.4)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "2bb30520-4c18-477a-b2bd-a17ba224c8c6")
+	)
+	(gr_line
+		(start 113.725 114.9)
+		(end 113.95 114.9)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3ec0087b-d151-42ca-b0ce-c1165f6de70a")
+	)
+	(gr_line
 		(start 108.1 105)
 		(end 108.3 105.1)
 		(stroke
@@ -6940,6 +6960,26 @@
 		)
 		(layer "F.SilkS")
 		(uuid "b4b48576-f01a-4d5a-9315-c2b3e4415972")
+	)
+	(gr_line
+		(start 113.575 114.65)
+		(end 114.075 114.65)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "daa3af3c-2228-4483-b5b7-9f9ba3db0df0")
+	)
+	(gr_line
+		(start 113.825 114.4)
+		(end 113.825 114)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e8c8879a-179e-4708-9035-7da9f342a563")
 	)
 	(gr_line
 		(start 104 104.5)
@@ -7012,29 +7052,29 @@
 			)
 		)
 	)
-	(gr_text "G"
-		(at 113.8 110.5 0)
+	(gr_text "D0"
+		(at 113.8 111.225 90)
 		(layer "F.SilkS")
 		(uuid "127f3e69-5f17-4208-b0c5-5cb4547b6990")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.7 0.7)
+				(thickness 0.175)
 			)
 		)
 	)
-	(gr_text "W"
-		(at 113.8 107.2 0)
+	(gr_text "D1"
+		(at 113.85 107.2 90)
 		(layer "F.SilkS")
 		(uuid "29e28c97-1586-4b3d-8f8e-7b79e8f89d5f")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.7 0.7)
+				(thickness 0.175)
 			)
 		)
 	)
-	(gr_text "R"
+	(gr_text "+"
 		(at 113.8 118 0)
 		(layer "F.SilkS")
 		(uuid "2ae40159-bbc2-49fc-be3e-d56932cfc2e3")
@@ -7056,25 +7096,14 @@
 			)
 		)
 	)
-	(gr_text "K"
-		(at 113.8 114 0)
-		(layer "F.SilkS")
-		(uuid "88777a6e-131e-401a-b0c3-8e7cf4ac7eda")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.2)
-			)
-		)
-	)
-	(gr_text "O"
-		(at 113.787515 103.296817 0)
+	(gr_text "LED"
+		(at 113.825 103.175 90)
 		(layer "F.SilkS")
 		(uuid "fe30ec76-336e-4c64-b299-a2a835b0e84d")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.2)
+				(size 0.7 0.7)
+				(thickness 0.175)
 			)
 		)
 	)

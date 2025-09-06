@@ -148,6 +148,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "41b198c8-d503-4586-8c29-0e76089ed75e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-00005699ae6f")
 		(attr through_hole)
 		(fp_line
@@ -293,6 +306,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9486dc86-71e4-49a7-8185-32c3b39cc59d")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -474,6 +500,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a52b873d-c732-4b04-86d4-30a29938d8f2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a1d936")
 		(attr smd)
 		(fp_line
@@ -634,6 +673,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf4e98aa-d1b3-448b-8312-8c7d2d444f84")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056aaebb4")
 		(attr smd)
 		(fp_line
@@ -780,7 +832,7 @@
 		(descr "Panasonic ELL4_M")
 		(tags "Inductor")
 		(property "Reference" "L1"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(uuid "f9a6e431-f3af-45af-90f4-21eeaa39b436")
 			(effects
@@ -791,7 +843,7 @@
 			)
 		)
 		(property "Value" "3.6uH"
-			(at 0 0 180)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "f53e6d48-9d44-45f4-b576-8d8ef9fd0a64")
 			(effects
@@ -802,7 +854,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0de3d9a9-2348-4dfb-9ce3-c1b7456e2e38")
@@ -814,13 +866,26 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1185aa24-eb09-4dcb-a4b3-c148a1b69ea0")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "333a9759-823e-4505-a157-d29b1dd5f65a")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -919,6 +984,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b26ba359-e9cb-4a2f-ada9-8060a78219fc")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1064,6 +1142,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "46e48622-fc52-40d0-8360-8abbf938a4f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a272b0")
 		(attr smd)
 		(fp_line
@@ -1201,6 +1292,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "55476738-d43e-42b9-aca8-0934f36dd3c0")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1346,6 +1450,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71a34358-f595-4b34-8f87-352c797d4ec7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a25401")
 		(attr smd)
 		(fp_line
@@ -1442,7 +1559,7 @@
 		(descr "SOT-23, Standard")
 		(tags "SOT-23")
 		(property "Reference" "Q1"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(uuid "58801171-4ef4-4f7f-b4e4-9d85a2b71f42")
 			(effects
@@ -1453,7 +1570,7 @@
 			)
 		)
 		(property "Value" "2N7002"
-			(at 0 0.4 270)
+			(at 0 0.4 90)
 			(layer "F.Fab")
 			(uuid "10742698-a775-4792-a2a9-70cb12e0808f")
 			(effects
@@ -1464,7 +1581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0886c212-0393-452c-8834-497d3b00e0d4")
@@ -1476,13 +1593,26 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9f575f08-f0c0-4b17-9611-2ec2881d5ca9")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e360a22d-ab27-4674-b2e3-b60043cdd713")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1620,7 +1750,7 @@
 		(descr "SOT-23, Standard")
 		(tags "SOT-23")
 		(property "Reference" "Q2"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(uuid "fdd35de4-ec01-4ab6-a046-7c743ff88249")
 			(effects
@@ -1631,7 +1761,7 @@
 			)
 		)
 		(property "Value" "2N7002"
-			(at 0 0.4 270)
+			(at 0 0.4 90)
 			(layer "F.Fab")
 			(uuid "565b3a63-e475-40fc-9e8d-86774067d9dc")
 			(effects
@@ -1642,7 +1772,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e919d69c-2edf-430d-82d3-ed9e0c6ad7a2")
@@ -1654,13 +1784,26 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "633db56e-cb95-4a40-9ed5-368cb213824c")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f10384d6-4fce-4ee8-8d84-242194051930")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -1798,7 +1941,7 @@
 		(descr "SOT-23, Standard")
 		(tags "SOT-23")
 		(property "Reference" "Q3"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(uuid "e664333b-806c-4174-98a7-b41f0d79c71e")
 			(effects
@@ -1809,7 +1952,7 @@
 			)
 		)
 		(property "Value" "2N7002"
-			(at 0 0.4 270)
+			(at 0 0.4 90)
 			(layer "F.Fab")
 			(uuid "1eeaf634-acea-407c-8a33-3e0e57f70a81")
 			(effects
@@ -1820,7 +1963,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d7ccb656-000e-4c2e-baaf-aac62bd584a4")
@@ -1832,13 +1975,26 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "18ff1f57-80ba-41b4-94d6-89cfe3936871")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23a0acdd-3511-40a1-9c2e-2a702c922daf")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2021,6 +2177,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e15d8043-68b4-4243-beef-5de5cc965ba4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a259b1")
 		(attr smd)
 		(fp_line
@@ -2158,6 +2327,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b84f809e-776b-4d00-8ac0-12a596f6410c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2303,6 +2485,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe9ce7a4-6048-4296-8321-67b4fdf35409")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a25864")
 		(attr smd)
 		(fp_line
@@ -2399,7 +2594,7 @@
 		(descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
 		(tags "resistor 0402")
 		(property "Reference" "R7"
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.SilkS")
 			(uuid "32e7afdb-3f13-46fe-8669-3cbd976886b1")
 			(effects
@@ -2410,7 +2605,7 @@
 			)
 		)
 		(property "Value" "12k7"
-			(at 0 0.2 270)
+			(at 0 0.2 90)
 			(layer "F.Fab")
 			(uuid "12266446-8efb-4a93-a915-7f31df5dadda")
 			(effects
@@ -2421,7 +2616,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8b7cf624-0271-4c40-8f0e-3e4ecbf6671a")
@@ -2433,13 +2628,26 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "eae8f872-1a81-49df-94ee-0948182884aa")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2bacce2e-9dfe-4ab5-9a0a-6a2dc4d4ea5e")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2585,6 +2793,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "44465968-e715-4726-a5f8-14860ae534ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a28572")
 		(attr smd)
 		(fp_line
@@ -2722,6 +2943,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c7b9d12-82ac-4b7b-8071-fa1630cabadb")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2867,6 +3101,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "64a4afaf-6ad2-49ea-a2d7-1e41ec677cc8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a2925e")
 		(attr smd)
 		(fp_line
@@ -3004,6 +3251,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa5cb3c5-0ea8-42af-8d47-8e6da1eb84b8")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3149,6 +3409,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "459b3298-643e-4366-b096-f098849442df")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a2a105")
 		(attr smd)
 		(fp_line
@@ -3286,6 +3559,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d417902-a443-4fd1-a3f9-51293dce3fbd")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3431,6 +3717,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bda49829-eb55-4050-a4ba-19b01f927de5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a2a111")
 		(attr smd)
 		(fp_line
@@ -3568,6 +3867,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d8ea3e33-1a93-4169-aa3b-826f97f51529")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3713,6 +4025,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "346522ec-0b73-48ec-87e6-c67e8e76cf0d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a2ade8")
 		(attr smd)
 		(fp_line
@@ -3809,7 +4134,7 @@
 		(descr "Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)")
 		(tags "resistor 0402")
 		(property "Reference" "R17"
-			(at 0.1 0 270)
+			(at 0.1 0 90)
 			(layer "F.SilkS")
 			(uuid "ddf1e14f-aa1f-4572-9994-a6c76a01483f")
 			(effects
@@ -3820,7 +4145,7 @@
 			)
 		)
 		(property "Value" "22k"
-			(at 0 0.2 270)
+			(at 0 0.2 90)
 			(layer "F.Fab")
 			(uuid "5253c13d-af33-4e1d-8f4b-33ff049da39b")
 			(effects
@@ -3831,7 +4156,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d7b4dd20-226d-470b-b5e3-0cf6e3aabe6f")
@@ -3843,13 +4168,26 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4ca1bad2-2df0-41b4-850d-4a1c2b5eee77")
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c14f1480-2898-4f07-8290-1b581c687674")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -3995,6 +4333,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cfb6f721-ee6a-47a7-9508-35f7edb63f77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056ca3cbf")
 		(attr smd)
 		(fp_line
@@ -4132,6 +4483,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "04e92368-83ef-4b5f-a3f9-b1769c106e4c")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -4277,6 +4641,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cd12c188-3c7f-4750-9c23-7b0f85365924")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-0000574cdd67")
 		(attr smd)
 		(fp_line
@@ -4418,6 +4795,19 @@
 				)
 			)
 		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3c290e42-c7d1-453a-9ceb-dcd448a8a6a9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/00000000-0000-0000-0000-000056a268de")
 		(attr smd)
 		(fp_line
@@ -4555,6 +4945,19 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC PN" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15129376-e9c1-4190-8dea-dc1278bf8570")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)

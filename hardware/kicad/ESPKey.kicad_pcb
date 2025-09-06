@@ -104,6 +104,7 @@
 		(property "Reference" "P1"
 			(at 0 0.0022 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "dadad705-87e7-48f8-bc5b-00b96bd4ea70")
 			(effects
 				(font
@@ -252,6 +253,7 @@
 		(property "Reference" "P2"
 			(at -1.96 -0.0022 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "18f95f19-000d-4b5f-930c-5a75210af492")
 			(effects
 				(font
@@ -261,7 +263,7 @@
 			)
 		)
 		(property "Value" "Wiegand"
-			(at 0 -3.7 270)
+			(at 0 -3.7 90)
 			(layer "F.Fab")
 			(uuid "fcf5ba2f-2746-43c2-b254-ccfc8c096c98")
 			(effects
@@ -272,7 +274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4d00a01d-66c4-4c0f-b2c6-0a4dbf1a63bf")
@@ -284,7 +286,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 270)
+			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "889a1491-d534-4847-8395-707c30e59784")

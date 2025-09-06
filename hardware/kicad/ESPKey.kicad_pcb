@@ -162,7 +162,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005699ae6f")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start 4 -2.5)
 			(end 4 2.5)
@@ -324,7 +324,7 @@
 			)
 		)
 		(path "/00000000-0000-0000-0000-00005699aec0")
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(fp_line
 			(start -6 2.5)
 			(end -5.6 2.5)

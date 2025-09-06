@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "ESPKey-rescue")(type "Legacy")(uri "${KIPRJMOD}/ESPKey-rescue.lib")(options "")(descr ""))
+)

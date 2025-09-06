@@ -5617,6 +5617,17 @@
 			)
 		)
 	)
+	(gr_text "OmegaPwn\nv3.0"
+		(at 108.965779 102.331967 0)
+		(layer "F.SilkS")
+		(uuid "31d09939-91e4-4ce1-b90e-09fd03f63e47")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
 	(gr_text "K"
 		(at 113.8 114 0)
 		(layer "F.SilkS")
